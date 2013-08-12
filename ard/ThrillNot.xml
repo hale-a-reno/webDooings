@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export>
+ <org_filename>Thrillseekers - Aqua 40 V1</org_filename>
+ <user>CARTINGESTD</user>
+ <itm_type>RM</itm_type>
+ <itm_site_id_str>THRILLSEEKERS-AQUA40V1-A3A1IU2Z</itm_site_id_str>
+ <mog_id>1100130703759981006</mog_id>
+ <agl_id>programme-version</agl_id>
+ <aspect_code>16:9</aspect_code>
+ <metadata>
+&lt;values&gt;
+  &lt;_agl_id&gt;programme-version&lt;/_agl_id&gt;
+  &lt;media_id&gt;M0724263&lt;/media_id&gt;
+  &lt;title&gt;Thrillseekers - Aqua 40 V1&lt;/title&gt;
+  &lt;material_type&gt;MF&lt;/material_type&gt;
+  &lt;audio_description_required&gt;false&lt;/audio_description_required&gt;
+  &lt;audio_description_approved&gt;false&lt;/audio_description_approved&gt;
+  &lt;audio_description_embedded&gt;false&lt;/audio_description_embedded&gt;
+  &lt;captions_required&gt;false&lt;/captions_required&gt;
+  &lt;captions_approved&gt;false&lt;/captions_approved&gt;
+  &lt;captions_embedded&gt;false&lt;/captions_embedded&gt;
+  &lt;resolution&gt;SD&lt;/resolution&gt;
+  &lt;aspect_ratio&gt;16:9&lt;/aspect_ratio&gt;
+  &lt;audio_mix&gt;S&lt;/audio_mix&gt;
+  &lt;tx_status&gt;P&lt;/tx_status&gt;
+  &lt;tx_packaging_date&gt;&lt;/tx_packaging_date&gt;
+  &lt;qc_status&gt;TBA&lt;/qc_status&gt;
+  &lt;auto_qc_result&gt;&lt;/auto_qc_result&gt;
+  &lt;auto_qc_profile&gt;&lt;/auto_qc_profile&gt;
+  &lt;harding_fpa_result&gt;&lt;/harding_fpa_result&gt;
+  &lt;harding_fpa_message&gt;&lt;/harding_fpa_message&gt;
+  &lt;comments&gt;&lt;/comments&gt;
+  &lt;record_type&gt;programme_version&lt;/record_type&gt;
+  &lt;classification&gt;bssprogrammes&lt;/classification&gt;
+&lt;/values&gt;
+
+ </metadata>
+ <subitems>
+  <subitem>
+   <sit_id>1100130703759980922</sit_id>
+   <agl_id>Thrillseekers - Aqua 40 V1</agl_id>
+   <sit_level>1</sit_level>
+   <sit_site_id_str>THRILLSEEKERS-AQUA40V1-A3A1JJ9D</sit_site_id_str>
+   <sit_title>Thrillseekers - Aqua 40 V1</sit_title>
+   <metadata>
+&lt;values&gt;
+  &lt;_agl_id&gt;media&lt;/_agl_id&gt;
+  &lt;title&gt;Thrillseekers - Aqua 40 V1&lt;/title&gt;
+&lt;/values&gt;
+   </metadata>
+  </subitem>
+ </subitems>
+</export>

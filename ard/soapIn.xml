@@ -1,0 +1,98 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <GetImplItemRes xmlns="http://mam.bskyb.com/schema/core" xmlns:ns2="ARDOME/SCHEMAS/complextype" xmlns:ns3="http://common.bskyb.com/schema/faults">
+         <item>
+            <agl_name>multiplatform-edited</agl_name>
+            <itemUrl>http://mam.broadcast.bskyb.com/ardome/op=info/id=1100130809276441121/detailview=basic</itemUrl>
+            <media_available_online>true</media_available_online>
+            <metadata><![CDATA[<values>
+ <_agl_id>multiplatform-edited</_agl_id>
+ <access></access>
+ <additional_info></additional_info>
+ <aspect_ratio>16:9</aspect_ratio>
+ <audio></audio>
+ <camera></camera>
+ <classification>multiplatform</classification>
+ <editorial_duration>00:23:50:01</editorial_duration>
+ <first_tx_date></first_tx_date>
+ <keep_date>3 Months</keep_date>
+ <log_id></log_id>
+ <logged>No</logged>
+ <music_detail_label></music_detail_label>
+ <out_words></out_words>
+ <producer>SkyGo</producer>
+ <production_id>MAM0912DIO</production_id>
+ <record_type>highlight</record_type>
+ <req_delete>No</req_delete>
+ <rights_info></rights_info>
+ <title>4OD_PeepShow_S1E3</title>
+ <type></type>
+</values>]]></metadata>
+            <segments><![CDATA[<transmission_package id='1100130809276442631' children='segment_profiles'><itm_id>1100130809276441121</itm_id><name>TX PACKAGE</name><segment_profiles children='segment_profile'><segment_profile id='1100130809276442932' children='segments'><mpg_id>1100130809276442631</mpg_id><item_id>1100130809276441121</item_id><name>TX PROFILE</name><segments children='segment'><segment id='232971719'><title>TX PROFILE</title><in>0</in><out>35750</out><seq_no>0</seq_no></segment></segments></segment_profile></segment_profiles></transmission_package>]]></segments>
+            <Item>
+               <ns2:itm_acc_contact xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_acc_gro_m>1</ns2:itm_acc_gro_m>
+               <ns2:itm_acc_gro_r>1</ns2:itm_acc_gro_r>
+               <ns2:itm_acc_gro_w>1</ns2:itm_acc_gro_w>
+               <ns2:itm_acc_wrl_m>0</ns2:itm_acc_wrl_m>
+               <ns2:itm_acc_wrl_r>0</ns2:itm_acc_wrl_r>
+               <ns2:itm_acc_wrl_w>0</ns2:itm_acc_wrl_w>
+               <ns2:itm_archive_state xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_backmed_state xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_blocked_by xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_blocked_ts xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_cat_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_contenttype>100</ns2:itm_contenttype>
+               <ns2:itm_creator xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_create_ts>2013-08-09 11:45:32.505040</ns2:itm_create_ts>
+               <ns2:itm_description>16:9</ns2:itm_description>
+               <ns2:itm_digitize_ts xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_ext_id_src xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_ext_id_str xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_feed_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_feed_source xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_feed_start_ts xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_feed_stop_ts xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_gro_name>multiplatform</ns2:itm_gro_name>
+               <ns2:itm_id>1100130809276441121</ns2:itm_id>
+               <ns2:itm_is_spg xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_issue_ts xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_kill_ts xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_language xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_pgm_id>1100120830152970011</ns2:itm_pgm_id>
+               <ns2:itm_planned_ts xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_publisher xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_retr_count>0</ns2:itm_retr_count>
+               <ns2:itm_rights_code/>
+               <ns2:itm_rights_short/>
+               <ns2:itm_rights_url xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_site_id_src xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_site_id_str>4ODPEEPSHOWS1E3-A3QI1D6J</ns2:itm_site_id_str>
+               <ns2:itm_source xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_spg_id>1100120905281064612</ns2:itm_spg_id>
+               <ns2:itm_stg_level>S</ns2:itm_stg_level>
+               <ns2:itm_subject xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_tempalte_id>0</ns2:itm_tempalte_id>
+               <ns2:itm_title>4OD_PeepShow_S1E3</ns2:itm_title>
+               <ns2:itm_title_alt xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_transmit_ts xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_type>RM</ns2:itm_type>
+               <ns2:itm_update_by>hartmic</ns2:itm_update_by>
+               <ns2:itm_update_ts>2013-08-09 12:58:15.290430</ns2:itm_update_ts>
+               <ns2:itm_use_name>hartmic</ns2:itm_use_name>
+               <ns2:itm_version_no xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            </Item>
+            <AuxiliaryID>
+               <ns2:auxArdomeId>1100130809276441121</ns2:auxArdomeId>
+               <ns2:auxExtDate>2013-08-09</ns2:auxExtDate>
+               <ns2:auxExtIdSrc>ARDOME</ns2:auxExtIdSrc>
+               <ns2:auxExtIdStr>mam0912dio</ns2:auxExtIdStr>
+               <ns2:auxExtIdStr2>EVSEVENT</ns2:auxExtIdStr2>
+               <ns2:auxExtType>EVSIMPORT</ns2:auxExtType>
+               <ns2:auxExtUpdateTs>2013-08-09 13:06:55.130630</ns2:auxExtUpdateTs>
+               <ns2:auxId>1100130809278434104</ns2:auxId>
+            </AuxiliaryID>
+         </item>
+      </GetImplItemRes>
+   </soap:Body>
+</soap:Envelope>

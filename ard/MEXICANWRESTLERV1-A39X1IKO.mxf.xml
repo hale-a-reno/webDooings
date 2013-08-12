@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export>
+ <org_filename>Mexican Wrestler V1</org_filename>
+ <user>CARTINGESTD</user>
+ <itm_id>1100130720004064821</itm_id>
+ <itm_type>RM</itm_type>
+ <itm_site_id_str>MEXICANWRESTLERV1-A39X1IKO</itm_site_id_str>
+ <mog_id>1100130722026158306</mog_id>
+ <agl_id>programme-version</agl_id>
+ <aspect_code>16:9</aspect_code>
+ <metadata>
+&lt;values&gt;
+  &lt;_agl_id&gt;programme-version&lt;/_agl_id&gt;
+  &lt;media_id&gt;M0756003&lt;/media_id&gt;
+  &lt;title&gt;Mexican Wrestler V1&lt;/title&gt;
+  &lt;material_type&gt;TM&lt;/material_type&gt;
+  &lt;audio_description_required&gt;false&lt;/audio_description_required&gt;
+  &lt;audio_description_approved&gt;false&lt;/audio_description_approved&gt;
+  &lt;audio_description_embedded&gt;false&lt;/audio_description_embedded&gt;
+  &lt;captions_required&gt;false&lt;/captions_required&gt;
+  &lt;captions_approved&gt;false&lt;/captions_approved&gt;
+  &lt;captions_embedded&gt;false&lt;/captions_embedded&gt;
+  &lt;resolution&gt;SD&lt;/resolution&gt;
+  &lt;aspect_ratio&gt;16:9&lt;/aspect_ratio&gt;
+  &lt;audio_mix&gt;S&lt;/audio_mix&gt;
+  &lt;tx_status&gt;R&lt;/tx_status&gt;
+  &lt;tx_packaging_date&gt;&lt;/tx_packaging_date&gt;
+  &lt;qc_status&gt;TBA&lt;/qc_status&gt;
+  &lt;auto_qc_result&gt;&lt;/auto_qc_result&gt;
+  &lt;auto_qc_profile&gt;&lt;/auto_qc_profile&gt;
+  &lt;harding_fpa_result&gt;&lt;/harding_fpa_result&gt;
+  &lt;harding_fpa_message&gt;&lt;/harding_fpa_message&gt;
+  &lt;comments&gt;&lt;/comments&gt;
+  &lt;record_type&gt;programme_version&lt;/record_type&gt;
+  &lt;classification&gt;bssprogrammes&lt;/classification&gt;
+&lt;/values&gt;
+
+ </metadata>
+ <subitems>
+  <subitem>
+   <sit_id>1100130722026158222</sit_id>
+   <agl_id>Mexican Wrestler V1</agl_id>
+   <sit_level>1</sit_level>
+   <sit_site_id_str>MEXICANWRESTLERV1-A39X691Q</sit_site_id_str>
+   <sit_title>Mexican Wrestler V1</sit_title>
+   <metadata>
+&lt;values&gt;
+  &lt;_agl_id&gt;media&lt;/_agl_id&gt;
+  &lt;title&gt;Mexican Wrestler V1&lt;/title&gt;
+&lt;/values&gt;
+   </metadata>
+  </subitem>
+ </subitems>
+</export>

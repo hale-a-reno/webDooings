@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export>
+ <org_filename>4OD_PeepShow_S1E3</org_filename>
+ <user>hartmic</user>
+ <itm_id>1100130809276441121</itm_id>
+ <itm_type>RM</itm_type>
+ <itm_site_id_str>4ODPEEPSHOWS1E3-A3QI1D6J</itm_site_id_str>
+ <mog_id>1100130809276441606</mog_id>
+ <agl_id>multiplatform-edited</agl_id>
+ <aspect_code>16:9</aspect_code>
+ <metadata>
+&lt;values&gt;
+  &lt;_agl_id&gt;multiplatform-edited&lt;/_agl_id&gt;
+  &lt;classification&gt;multiplatform&lt;/classification&gt;
+  &lt;title&gt;4OD_PeepShow_S1E3&lt;/title&gt;
+  &lt;production_id&gt;MAM0912DIO&lt;/production_id&gt;
+  &lt;aspect_ratio&gt;16:9&lt;/aspect_ratio&gt;
+  &lt;editorial_duration&gt;00:23:50:01&lt;/editorial_duration&gt;
+  &lt;first_tx_date&gt;&lt;/first_tx_date&gt;
+  &lt;audio&gt;&lt;/audio&gt;
+  &lt;camera&gt;&lt;/camera&gt;
+  &lt;out_words&gt;&lt;/out_words&gt;
+  &lt;sound&gt;&lt;/sound&gt;
+  &lt;graphics_detail&gt;&lt;/graphics_detail&gt;
+  &lt;additional_info&gt;&lt;/additional_info&gt;
+  &lt;rights_info&gt;&lt;/rights_info&gt;
+  &lt;music&gt;&lt;/music&gt;
+  &lt;logged&gt;No&lt;/logged&gt;
+  &lt;req_delete&gt;No&lt;/req_delete&gt;
+  &lt;type&gt;&lt;/type&gt;
+  &lt;access&gt;&lt;/access&gt;
+  &lt;log_id&gt;&lt;/log_id&gt;
+  &lt;producer&gt;SkyGo&lt;/producer&gt;
+  &lt;keep_date&gt;3 Months&lt;/keep_date&gt;
+  &lt;record_type&gt;highlight&lt;/record_type&gt;
+&lt;/values&gt;
+
+ </metadata>
+ <subitems>
+  <subitem>
+   <sit_id>1100130809276441522</sit_id>
+   <agl_id>4OD_PeepShow_S1E3</agl_id>
+   <sit_level>1</sit_level>
+   <sit_site_id_str>4ODPEEPSHOWS1E3-A3QI1D6N</sit_site_id_str>
+   <sit_title>4OD_PeepShow_S1E3</sit_title>
+   <metadata>
+&lt;values&gt;
+  &lt;_agl_id&gt;media&lt;/_agl_id&gt;
+  &lt;title&gt;4OD_PeepShow_S1E3&lt;/title&gt;
+&lt;/values&gt;
+   </metadata>
+  </subitem>
+ </subitems>
+</export>

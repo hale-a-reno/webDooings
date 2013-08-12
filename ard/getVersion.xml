@@ -1,0 +1,6 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:rhoz="http://Rhozet.com/Rhozet.Services.IJmLib">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <rhoz:GetVersion/>
+   </soapenv:Body>
+</soapenv:Envelope>

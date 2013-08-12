@@ -1,0 +1,96 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
+   <soap:Body>
+      <GetImplItemRes xmlns="http://mam.bskyb.com/schema/core" xmlns:ns2="ARDOME/SCHEMAS/complextype" xmlns:ns3="http://common.bskyb.com/schema/faults">
+         <item>
+            <agl_name>programme-version</agl_name>
+            <itemUrl>http://mam.broadcast.bskyb.com/ardome/op=info/id=1100130702756717921/detailview=basic</itemUrl>
+            <media_available_online>true</media_available_online>
+            <metadata><![CDATA[<values>
+ <_itm_id>1100130702756717921</_itm_id>
+ <access></access>
+ <aspect_ratio>16:9</aspect_ratio>
+ <audio_description_approved>false</audio_description_approved>
+ <audio_description_embedded>false</audio_description_embedded>
+ <audio_description_required>false</audio_description_required>
+ <audio_mix>S</audio_mix>
+ <captions_approved>false</captions_approved>
+ <captions_embedded>false</captions_embedded>
+ <captions_required>false</captions_required>
+ <classification>bssprogrammes</classification>
+ <material_type>MF</material_type>
+ <media_id>M0724263</media_id>
+ <qc_status>TBA</qc_status>
+ <record_type>programme_version</record_type>
+ <resolution>SD</resolution>
+ <site_id>THRILLSEEKERS-AQUA40V1-A3A1IU2Z</site_id>
+ <title>Thrillseekers - Aqua 40 V1</title>
+ <tx_status>P</tx_status>
+</values>]]></metadata>
+            <segments><![CDATA[<transmission_package id='1100130703759991731' children='segment_profiles'><itm_id>1100130702756717921</itm_id><name>TX PACKAGE</name><segment_profiles children='segment_profile'><segment_profile id='1100130703759991832' children='segments'><mpg_id>1100130703759991731</mpg_id><item_id>1100130702756717921</item_id><name>TX PROFILE</name><updated_by>gethingn</updated_by><overlap>0</overlap><segments children='segment'><segment id='220717903'><title>TX PROFILE</title><in>900000</in><out>917525</out><seq_no>1</seq_no></segment><segment id='220790631'><title>TX PROFILE</title><in>921000</in><out>938800</out><seq_no>2</seq_no></segment></segments></segment_profile></segment_profiles></transmission_package>]]></segments>
+            <Item>
+               <ns2:itm_acc_contact xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_acc_gro_m>1</ns2:itm_acc_gro_m>
+               <ns2:itm_acc_gro_r>1</ns2:itm_acc_gro_r>
+               <ns2:itm_acc_gro_w>1</ns2:itm_acc_gro_w>
+               <ns2:itm_acc_wrl_m>0</ns2:itm_acc_wrl_m>
+               <ns2:itm_acc_wrl_r>0</ns2:itm_acc_wrl_r>
+               <ns2:itm_acc_wrl_w>0</ns2:itm_acc_wrl_w>
+               <ns2:itm_archive_state xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_backmed_state xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_blocked_by xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_blocked_ts xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_cat_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_content_type>SD</ns2:itm_content_type>
+               <ns2:itm_creator xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_create_ts>2013-07-02 21:48:26.755610</ns2:itm_create_ts>
+               <ns2:itm_description>16:9</ns2:itm_description>
+               <ns2:itm_digitize_ts xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_ext_id_src xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_ext_id_str>M0724263</ns2:itm_ext_id_str>
+               <ns2:itm_feed_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_feed_source xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_feed_start_ts xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_feed_stop_ts xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_gro_name>bssprogrammes</ns2:itm_gro_name>
+               <ns2:itm_id>1100130702756717921</ns2:itm_id>
+               <ns2:itm_is_spg xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_issue_ts xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_kill_ts xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_language xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_pgm_id>1100130515064994911</ns2:itm_pgm_id>
+               <ns2:itm_planned_ts xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_publisher xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_retr_count>1</ns2:itm_retr_count>
+               <ns2:itm_rights_code/>
+               <ns2:itm_rights_short/>
+               <ns2:itm_rights_url xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_site_id_src xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_site_id_str>THRILLSEEKERS-AQUA40V1-A3A1IU2Z</ns2:itm_site_id_str>
+               <ns2:itm_source xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_spg_id>1100130702756715712</ns2:itm_spg_id>
+               <ns2:itm_stg_level>S</ns2:itm_stg_level>
+               <ns2:itm_subject xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_tempalte_id>0</ns2:itm_tempalte_id>
+               <ns2:itm_title>Thrillseekers - Aqua 40 V1</ns2:itm_title>
+               <ns2:itm_title_alt xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_transmit_ts xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+               <ns2:itm_type>RM</ns2:itm_type>
+               <ns2:itm_update_by>CARTINGESTD</ns2:itm_update_by>
+               <ns2:itm_update_ts>2013-08-07 13:42:07.936950</ns2:itm_update_ts>
+               <ns2:itm_use_name>CARTINGESTD</ns2:itm_use_name>
+               <ns2:itm_version_no xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            </Item>
+            <AuxiliaryID>
+               <ns2:auxArdomeId>1100130702756717921</ns2:auxArdomeId>
+               <ns2:auxExtIdSrc>BSS</ns2:auxExtIdSrc>
+               <ns2:auxExtIdStr>M0724263</ns2:auxExtIdStr>
+               <ns2:auxExtType>VE</ns2:auxExtType>
+               <ns2:auxId>1100130702756718004</ns2:auxId>
+            </AuxiliaryID>
+            <objectType>VE</objectType>
+            <objectTypeDescription>Programme Version</objectTypeDescription>
+            <objectStorageClass>Permanent</objectStorageClass>
+         </item>
+      </GetImplItemRes>
+   </soap:Body>
+</soap:Envelope>

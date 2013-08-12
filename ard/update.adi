@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ADI3 xmlns="http://www.cablelabs.com/namespaces/metadata/xsd/vod30/1" xmlns:content="http://www.cablelabs.com/namespaces/metadata/xsd/content/1" xmlns:core="http://www.cablelabs.com/namespaces/metadata/xsd/core/1" xmlns:ext="URN:NNDS:CMS:ADI3:01" xmlns:offer="http://www.cablelabs.com/namespaces/metadata/xsd/offer/1" xmlns:terms="http://www.cablelabs.com/namespaces/metadata/xsd/terms/1" xmlns:title="http://www.cablelabs.com/namespaces/metadata/xsd/title/1" xmlns:vod30="http://www.cablelabs.com/namespaces/metadata/xsd/vod30/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ContentGroup creationDateTime="2013-06-17T16:03:47Z" endDateTime="2013-07-02T00:00:00Z" providerVersionNum="1" startDateTime="2013-06-18T17:00:00Z" uriId="disney.xdhd.com/DSNY0000000000008347">
+    <core:Ext>
+      <ext:ContentGroupType>AV</ext:ContentGroupType>
+      <ext:CategoryImageRef uriId="disney.xdhd.com/CATI0000000000008347"/>
+    </core:Ext>
+    <offer:TitleRef uriId="disney.xdhd.com/TITL0000000000008347"/>
+    <offer:MovieRef uriId="disney.xdhd.com/MAIN0000000000008347"/>
+    <offer:ThumbnailRef uriId="disney.xdhd.com/THUM0000000000008347"/>
+  </ContentGroup>
+  <Title creationDateTime="2013-06-17T16:03:47Z" endDateTime="2013-07-02T00:00:00Z" providerVersionNum="1" startDateTime="2013-06-18T17:00:00Z" uriId="disney.xdhd.com/TITL0000000000008347">
+    <core:Ext>
+      <ext:LocalizableTitleExt>
+        <ext:EpisodeName>Spy Fly</ext:EpisodeName>
+      </ext:LocalizableTitleExt>
+      <ext:SeriesInfo episodeNumber="21" seasonNumber="2" totalEpisodes="26"/>
+    </core:Ext>
+    <title:LocalizableTitle>
+      <title:TitleSortName>*</title:TitleSortName>
+      <title:TitleBrief>DUMMY</title:TitleBrief>
+      <title:TitleMedium>Lab Rats</title:TitleMedium>
+      <title:TitleLong>DUMMY</title:TitleLong>
+      <title:SummaryShort>Spy Fly: After failing to study for a big test Leo attempts to cheat using Davenport's Fly Spy device, a mobile robotic spy camera in the form of a fly. Principal Perry confiscates the device and use</title:SummaryShort>
+    </title:LocalizableTitle>
+    <title:Rating ratingSystem="BSkyBca">1</title:Rating>
+    <title:Rating ratingSystem="BSkyBsi">0</title:Rating>
+    <title:DisplayRunTime>0:27</title:DisplayRunTime>
+    <title:Genre>2:0</title:Genre>
+    <title:ShowType>Other</title:ShowType>
+  </Title>
+  <Thumbnail creationDateTime="2013-06-17T16:03:47Z" endDateTime="2013-07-02T00:00:00Z" providerVersionNum="1" startDateTime="2013-06-18T17:00:00Z" uriId="disney.xdhd.com/THUM0000000000008347">
+    <content:SourceUrl>DSNY0000000000008347IMG1v1.jpg</content:SourceUrl>
+    <content:ContentFileSize>9103</content:ContentFileSize>
+    <content:ContentCheckSum>d93df0170751c460d2f995560698e2a1</content:ContentCheckSum>
+  </Thumbnail>
+  <Ext>
+    <ext:CategoryImage creationDateTime="2013-06-17T16:03:47Z" endDateTime="2013-07-02T00:00:00Z" providerVersionNum="1" startDateTime="2013-06-18T17:00:00Z" uriId="disney.xdhd.com/CATI0000000000008347">
+      <content:SourceUrl>DSNY0000000000008347IMG2v1.jpg</content:SourceUrl>
+      <content:ContentFileSize>6586</content:ContentFileSize>
+      <content:ContentCheckSum>d5a3f99319c3f91e2dd45a474fc2e213</content:ContentCheckSum>
+    </ext:CategoryImage>
+  </Ext>
+  <Offer creationDateTime="2013-06-17T16:03:47Z" endDateTime="2013-07-02T00:00:00Z" providerVersionNum="1" startDateTime="2013-06-18T17:00:00Z" uriId="disney.xdhd.com/OFFR0000000000008347">
+    <core:Ext>
+      <ext:CutvEvent epgDateTime="2013-06-18T17:00:00Z" leadServiceKey="4070">
+        <ext:Service serviceKey="4070"/>
+      </ext:CutvEvent>
+    </core:Ext>
+    <offer:BillingId>DUMMY</offer:BillingId>
+    <offer:TermsRef uriId="disney.xdhd.com/TERM0000000000008347"/>
+    <offer:ContentGroupRef uriId="disney.xdhd.com/DSNY0000000000008347"/>
+  </Offer>
+  <Terms creationDateTime="2013-06-17T16:03:47Z" endDateTime="2013-07-02T00:00:00Z" providerVersionNum="1" startDateTime="2013-06-18T17:00:00Z" uriId="disney.xdhd.com/TERM0000000000008347">
+    <core:Ext>
+      <ext:TermType>CUTV</ext:TermType>
+    </core:Ext>
+    <terms:SuggestedPrice>0</terms:SuggestedPrice>
+  </Terms>
+</ADI3>

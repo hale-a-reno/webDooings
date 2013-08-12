@@ -1,0 +1,59 @@
+
+use XML::Simple;
+use Data::Dumper;
+use LWP::UserAgent;
+use HTTP::Request::Common;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sub getArdomeMobData {
+						my $item_ID = $_[0];	
+						my $soapMessage = createMOBdataMessage($item_ID);
+						
+						#print $soapMessage ."\n";
+						
+						my $userAgent = LWP::UserAgent->new(agent => 'perl post');
+						my $response;
+						
+						#Add eval Here........
+						$response = $userAgent->request(POST 'http://esb2-vip-live.broadcast.bskyb.com:9576/cookiemanager?service=DataModelAPI',		
+						Content_Type => 'text/xml',
+						Content => $soapMessage);
+						
+						if ($response->is_success){
+							
+							#print $response->decoded_content;
+							return $response->decoded_content;
+							
+														
+							}else {
+							
+							print $response->error_as_HTML . "\n";
+							die "Error getting MOB data";
+							}		
+						
+	
+	
+					}
+					
